@@ -1,0 +1,30 @@
+.packages__plan{
+background: #d5ffdc;
+width: 50%;
+border: 3px solid #0e4f1f;
+padding: 20px;
+margin: 20px;
+}
+
+.packages__plan a{
+    text-decoration: none;
+    color: inherit;
+
+}
+.packages__plan h2{
+    color: #cccccc ;
+
+}
+.packages__plan p {
+    background:white;
+    height: 60px;
+    padding: 15px;
+    border: 1px solid #0e4f1f ;
+    color: #0e4f1f ;
+}
+
+.packages__plan-highlighted{
+    background:  #0e4f1f;
+    color: white;
+
+}
